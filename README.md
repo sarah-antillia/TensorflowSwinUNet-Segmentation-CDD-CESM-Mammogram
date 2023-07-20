@@ -16,23 +16,21 @@ In order to write the <a href="./TensorflowSwinUNet.py">TensorflowSwinUNet</a> P
  https://github.com/yingkaisha/keras-unet-collection/tree/main/keras_unet_collection
 </pre>
 
-<p>
-Please see also:
-</p>
+Please see also:<br>
 <pre>
 2. U-Net: Convolutional Networks for Biomedical Image Segmentation
  https://arxiv.org/pdf/1505.04597.pdf
-
+</pre>
+<pre>
 3. Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation
-https://arxiv.org/pdf/2105.05537.pdf
-
-4. Image-Segmentation-CDD-CESM-Mammogram<br>
+ https://arxiv.org/pdf/2105.05537.pdf
+</pre>
+<pre>
+4. Image-Segmentation-CDD-CESM-Mammogram
  https://github.com/sarah-antillia/Image-Segmentation-CDD-CESM-Mammogram
 </pre>
 
-<p>
-The image dataset used here has been taken from the following web site.
-</p>
+The image dataset used here has been taken from the following web site.<br>
 <pre>
 Categorized Digital Database for Low energy and Subtracted Contrast Enhanced Spectral Mammography images (CDD-CESM)
 https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=109379611#109379611bcab02c187174a288dbcbf95d26179e8
