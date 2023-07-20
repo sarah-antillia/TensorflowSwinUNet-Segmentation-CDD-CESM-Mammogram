@@ -373,7 +373,7 @@ Please move to ./projects/Mammogram directory, and run the following bat file.<b
 >model_inspect.bat
 </pre>
 
-1. TensorflowUNet Model graph<br>
+1. TensorflowSwinUNet Model graph<br>
 <img src="./projects/Mammogram/model.png"><br>
 <br>
 2. Model summary<br>
